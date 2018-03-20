@@ -1,0 +1,31 @@
+.table .thead-dark th {
+  color: #fff;
+  background-color: #ffc79c;
+  border-color: #e1e1e1;
+  border-width: thin;
+  text-align: center;
+}
+
+.table a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #000000;
+}
+
+.table tbody{
+  color: #666666;
+}
+
+.table tbody th{
+  background-color:#fceadc;
+  color: #fff;
+  text-align: center;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.005);
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.040);
+}

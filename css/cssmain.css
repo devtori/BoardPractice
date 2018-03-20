@@ -1,0 +1,120 @@
+
+
+
+
+
+
+.logincheck h2{
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+.loginbox{
+  font-family: "sans-serif";
+  border: 1px;
+  border-style: solid;
+  border-color: #c9c9c9;
+}
+
+.loginbox h1{
+  background-color: #fceadc;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 30px;
+  height: 50px;
+}
+
+.loginbox h2{
+  padding-left: 25px;
+  font-size: 17px;
+}
+
+.loginbox h2{
+  padding-left: 25px;
+  font-size: 17px;
+}
+
+
+
+.indexbox {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.indexbox h1{
+  color: #666666;
+}
+
+.indexbox h4{
+  color: #cccccc;
+}
+
+
+
+.pwdcheck h2{
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+.myinfo {
+  text-align: center;
+}
+
+
+.myinfo h1{
+  font-size: 17px;
+}
+
+.myinfo h3{
+  font-size: 17px;
+}
+
+
+
+.joinbox{
+  text-align: center;
+}
+
+
+.noticebox{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+.writebtn p{
+  padding-right: 30px;
+}
+
+
+
+.infochangebox{
+  padding-left: 70px;
+}
+
+
+
+.deletecheck h2{
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+.notice_readbox{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.board_readbox{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.comment_write{
+  padding-left: 40px;
+}
